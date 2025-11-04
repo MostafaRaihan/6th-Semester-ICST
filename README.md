@@ -11,7 +11,7 @@
 2. SQL এর Database এ **Table তৈরি ও Data Insert**  
 3. SQL এর Database এর উপর **Alter Operation**  
 4. SQL এর Database এ **Select, From, Where Operation**  
-5. SQL এর Database এ **Count, SUM, AVG, MAX, MIN Operation**
+5. SQL এর Database এ **Aggregate function**
 
 ---
 

@@ -1,7 +1,16 @@
-# 🧾 6th Semester Jobsheet Topics  
+# 🧾 6th Semester Items Topics  
 **Technology:** Computer Science and Technology (CST)  
 **Institute:** Institute of Computer Science & Technology (ICST)  
 
+---
+
+## 📚All Subject Suggestions
+
+1. Database Management System (DBMS)
+2. Industrial Management
+3. Principle Of Marketing
+4. Surveillance Security System
+   
 ---
 
 ## 📚 Jobsheet List
